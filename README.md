@@ -17,7 +17,7 @@ Before you can run this API, ensure you have the following:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://your-repository-url.git
+    git clone https://github.com/Nikisha2024/AIIntern1.git
     cd your-repository-directory
     ```
 
